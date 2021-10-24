@@ -1,0 +1,40 @@
+body {
+  background-color: #121116;
+  max-width: 1920px;
+  max-height: 420px;
+  font-family: 'Open Sans';
+}
+.header {
+  padding-left: 900px;
+  padding-top: 120px;
+}
+.title {
+  padding-left: 890px;
+  padding-top: 50px;
+}
+h2 {
+font-family: 'Open Sans';
+color: #ffffff;
+font-size: 20px;
+font-weight: 400;
+}
+.line_middle {
+
+}
+.social_settings {
+  padding-left: 835px;
+  padding-top: 40px;
+  
+}
+ul,li {
+  list-style: none;
+  display: flex;
+  padding-left: 30px;
+}
+footer {
+font-family: 'Open Sans';
+font-size: 15px;
+line-height: 1.2;
+font-weight: 600;
+color: #ffffff;
+}
