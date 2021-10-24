@@ -31,10 +31,11 @@ ul,li {
   display: flex;
   padding-left: 30px;
 }
-footer {
+.footer {
 font-family: 'Open Sans';
 font-size: 15px;
 line-height: 1.2;
 font-weight: 600;
 color: #ffffff;
+padding-left: 873px;
 }
