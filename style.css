@@ -18,6 +18,14 @@ color: #ffffff;
 font-size: 20px;
 font-weight: 400;
 }
+hr {
+  background-color: #ffffff;
+  position: absolute;
+  left: 860px;
+  top: 265px;
+  width: 230px;
+  height: 1px;
+}
 .line_middle {
 
 }
@@ -37,5 +45,5 @@ font-size: 15px;
 line-height: 1.2;
 font-weight: 600;
 color: #ffffff;
-padding-left: 873px;
+padding-left: 860px;
 }
