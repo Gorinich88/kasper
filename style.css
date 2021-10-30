@@ -5,11 +5,11 @@ body {
   font-family: 'Open Sans';
 }
 .header {
-  padding-left: 900px;
+  padding-left: 650px;
   padding-top: 120px;
 }
 .title {
-  padding-left: 890px;
+  padding-left: 635px;
   padding-top: 50px;
 }
 h2 {
@@ -18,11 +18,16 @@ color: #ffffff;
 font-size: 20px;
 font-weight: 400;
 }
-.line_middle {
-
+hr {
+  background-color: #ffffff;
+  position: absolute;
+  left: 605px;
+  top: 265px;
+  width: 230px;
+  height: 1px;
 }
 .social_settings {
-  padding-left: 835px;
+  padding-left: 580px;
   padding-top: 40px;
   
 }
@@ -37,5 +42,5 @@ font-size: 15px;
 line-height: 1.2;
 font-weight: 600;
 color: #ffffff;
-padding-left: 873px;
+padding-left: 600px;
 }
